@@ -25,7 +25,7 @@ export default function Footer() {
               <div className="w-10 h-10 bg-gradient-to-br from-blue-500 to-purple-600 rounded-lg flex items-center justify-center">
                 <Sparkles className="w-6 h-6 text-white" />
               </div>
-              <span className="text-xl font-bold text-white">DigitalForge</span>
+              <span className="text-xl font-bold text-white">Taskbazi</span>
             </motion.div>
 
             <p className="text-gray-400 mb-6 leading-relaxed">
@@ -95,7 +95,7 @@ export default function Footer() {
               </div>
               <div>
                 <div className="text-sm text-gray-500">Email</div>
-                <div className="text-white">hello@digitalforge.com</div>
+                <div className="text-white">hello@taskbazi.in</div>
               </div>
             </div>
 
@@ -105,7 +105,7 @@ export default function Footer() {
               </div>
               <div>
                 <div className="text-sm text-gray-500">Phone</div>
-                <div className="text-white">+1 (555) 123-4567</div>
+                <div className="text-white">+91 8016222991</div>
               </div>
             </div>
 
@@ -115,15 +115,16 @@ export default function Footer() {
               </div>
               <div>
                 <div className="text-sm text-gray-500">Location</div>
-                <div className="text-white">San Francisco, CA</div>
+                <div className="text-white">Kolkata 101, WB, IN</div>
               </div>
             </div>
           </div>
 
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 pt-8 border-t border-white/5">
             <p className="text-gray-400 text-sm">
-              © {new Date().getFullYear()} DigitalForge. All rights reserved.
+              © {new Date().getFullYear()} Taskbazi. All rights reserved.
             </p>
+            
             <div className="flex gap-6 text-sm">
               <a href="#" className="text-gray-400 hover:text-white transition-colors">
                 Privacy Policy
